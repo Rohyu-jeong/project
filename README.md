@@ -119,7 +119,7 @@ div.HStyle17
 
 <BODY>
 
-<P CLASS=HStyle0><h3>1번 문항 답 - 프로젝트 기술사양(Specs)</h3></P>
+<P CLASS=HStyle0><h3>1번 - 프로젝트 기술사양(Specs)</h3></P>
 
 <TABLE border="1" cellspacing="0" cellpadding="0" style='border-collapse:collapse;border:none;'>
 <TR>
@@ -1006,15 +1006,22 @@ div.HStyle17
 </TR>
 </TABLE>
 
-	<h3>3번 문항 답</h3>
+	3번
 <img src=>
 <br>
 	
-	<h3>4번 문항 답</h3>
+	4번
+<img src=https://github.com/Rohyu-jeong/project/blob/main/test/board_%ED%85%8C%EC%9D%B4%EB%B8%94.PNG>
+<br>
+<img src=https://github.com/Rohyu-jeong/project/blob/main/test/member2_%ED%85%8C%EC%9D%B4%EB%B8%94.PNG>
+<br>
 <img src=https://github.com/Rohyu-jeong/project/blob/main/test/root-context.PNG>
 <br>
 <img src=https://github.com/Rohyu-jeong/project/blob/main/test/servlet-context.PNG>
 <br>
+<img src=https://github.com/Rohyu-jeong/project/blob/main/test/url_mappings.PNG>
+<br>
+
 
 </BODY>
 
