@@ -164,7 +164,7 @@ div.HStyle17
 	<P CLASS=HStyle0 STYLE='text-align:left;'><SPAN STYLE='font-size:11.3pt;font-family:"HelveticaNeue,한컴돋움";line-height:160%'>WAS</SPAN></P>
 	</TD>
 	<TD valign="middle" style='width:166px;height:40px;border-left:solid #000000 0.7pt;border-right:solid #000000 0.7pt;border-top:solid #000000 0.7pt;border-bottom:solid #000000 0.7pt;padding:7.5pt 7.5pt 7.5pt 7.5pt'>
-	<P CLASS=HStyle0 STYLE='text-align:left;'><SPAN STYLE='font-size:11.3pt;font-family:"HelveticaNeue,한컴돋움";line-height:160%'>Tomcat 9.x</SPAN></P>
+	<P CLASS=HStyle0 STYLE='text-align:left;'><SPAN STYLE='font-size:11.3pt;font-family:"HelveticaNeue,한컴돋움";line-height:160%'>Tomcat 9.0</SPAN></P>
 	</TD>
 	<TD valign="middle" style='width:181px;height:40px;border-left:solid #000000 0.7pt;border-right:solid #000000 0.7pt;border-top:solid #000000 0.7pt;border-bottom:solid #000000 0.7pt;padding:7.5pt 7.5pt 7.5pt 7.5pt'>
 	<P CLASS=HStyle0 STYLE='text-align:left;'><SPAN STYLE='font-size:11.3pt;font-family:"Meiryo,한컴돋움";line-height:160%'>​</SPAN></P>
@@ -187,7 +187,7 @@ div.HStyle17
 	<P CLASS=HStyle0 STYLE='text-align:left;'><SPAN STYLE='font-size:11.3pt;font-family:"Meiryo,한컴돋움";line-height:160%'>​</SPAN></P>
 	</TD>
 	<TD valign="middle" style='width:141px;height:40px;border-left:solid #000000 0.7pt;border-right:solid #000000 0.7pt;border-top:solid #000000 0.7pt;border-bottom:solid #000000 0.7pt;padding:7.5pt 7.5pt 7.5pt 7.5pt'>
-	<P CLASS=HStyle0 STYLE='text-align:left;'><SPAN STYLE='font-size:11.3pt;font-family:"HelveticaNeue,한컴돋움";line-height:160%'>11g or 18c</SPAN></P>
+	<P CLASS=HStyle0 STYLE='text-align:left;'><SPAN STYLE='font-size:11.3pt;font-family:"HelveticaNeue,한컴돋움";line-height:160%'>18c</SPAN></P>
 	</TD>
 </TR>
 <TR>
