@@ -1007,7 +1007,11 @@ div.HStyle17
 </TABLE>
 
 	3번
-<img src=>
+<img src=https://github.com/Rohyu-jeong/project/blob/main/test/screenshot1.PNG>
+<br>
+<img src=https://github.com/Rohyu-jeong/project/blob/main/test/screenshot2.PNG>
+<br>
+<img src=https://github.com/Rohyu-jeong/project/blob/main/test/screenshot3.PNG>
 <br>
 	
 	4번
