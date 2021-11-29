@@ -119,7 +119,7 @@ div.HStyle17
 
 <BODY>
 
-<P CLASS=HStyle0><h3>- 프로젝트 기술사양(Specs)</h3></P>
+<P CLASS=HStyle0><h3>1번 문항 답 - 프로젝트 기술사양(Specs)</h3></P>
 
 <TABLE border="1" cellspacing="0" cellpadding="0" style='border-collapse:collapse;border:none;'>
 <TR>
