@@ -1006,6 +1006,9 @@ div.HStyle17
 </TR>
 </TABLE>
 
+	<P CLASS=HStyle0><h3>3번 문항 답 - 프로젝트 기술사양(Specs)</h3></P>
+	
+	<P CLASS=HStyle0><h3>4번 문항 답 - 프로젝트 기술사양(Specs)</h3></P>
 
 </BODY>
 
