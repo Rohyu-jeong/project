@@ -1010,8 +1010,10 @@ div.HStyle17
 <img src=>
 <br>
 	
-	<h3>4번 문항 답 - </h3>
-<img src=>
+	<h3>4번 문항 답</h3>
+<img src=https://github.com/Rohyu-jeong/project/blob/main/test/root-context.PNG>
+<br>
+<img src=https://github.com/Rohyu-jeong/project/blob/main/test/servlet-context.PNG>
 <br>
 
 </BODY>
